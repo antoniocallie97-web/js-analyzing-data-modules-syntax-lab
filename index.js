@@ -14,4 +14,4 @@ function combineUsers(...args) {
     return combinedObject;
 }
 
-module.exports = combineUsers;
+module.exports = { combineUsers };
